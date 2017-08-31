@@ -252,7 +252,7 @@
                               <td><center>Área administrativa, apoyo en programación computacional</center></td>
                               <td><center>Adm. De redes computacionales, Analista programador computacional, Ingeniería en conectividad y redes, Ingeniería en informática.</center></td>
                             </tr>
-                            <tr> aqui
+                            <tr> 
                               <td rowspan="2" > <br><br> <center><img src="../media/img/UNIVERSO.jpg" height="45" width="70"> </center> <center><b> UNIVERSO </b></center></td>
                               <td><center> <input type="radio" name="nombre" value="47"/> Técnico o ingeniero en administración de empresa </center></td>
                               <td><center>Práctica profesional</center></td>
@@ -280,7 +280,7 @@
                             </tr>
 
                             <tr>
-                              <td rowspan="2" > <br><br> <center><img src="../media/img/accenture.png" height="35" width="60"> </center> <center><b> ACCENTURE </b></center></td>
+                              <td rowspan="2" > <br><br> <center><img src="../media/img/accenture.jpg" height="50" width="100"> </center> <center><b> ACCENTURE </b></center></td>
                               <td><center> <input type="radio" name="nombre" value="11"/> Practicante Área Tecnología </center></td>
                               <td><center>Práctica profesional</center></td>
                               <td><center>ÁProgramar y desarrollar sistemas, disponibilidad horario fulltime.</center></td>
@@ -421,7 +421,7 @@ Apoyo, control y definición de estrategias comerciales.</center></td>
                               <td><center>Técnico en Administración de Empresas Mención Marketing, Administración de Recursos Humanos.</center></td>
                             </tr>
                             <tr>
-                              <td rowspan="2"> <br><br> <center><img src="../media/img/MALO.png" height="20" width="50"> </center> <center><b> IMECEX </b></center></td>
+                              <td rowspan="2"> <br><br> <center><img src="../media/img/IMECX.png" height="50" width="100"> </center> <center><b> IMECEX </b></center></td>
                               <td><center> <input type="radio" name="nombre" value="53"/> Diseñadores Gráficos o Industriales </center></td>
                               <td><center>Práctica profesional</center></td>
                               <td><center>Diseño de piezas gráficas, prototipos funcionales, material gráfico en soportes análogos y/o digitales.</center></td>
@@ -459,7 +459,7 @@ Apoyo, control y definición de estrategias comerciales.</center></td>
                               <td><center>Ventas, administración, marketing, etc.</center></td>
                             </tr>
                             <tr>
-                              <td rowspan="1"> <br><br> <center><img src="../media/img/MALO.png" height="70" width="70"> </center> <center><b> ESTUDIO CONTABLE JBM Y CIA. </b></center></td>
+                              <td rowspan="1"> <br><br> <center><img src="../media/img/ESTUDIOJBM.png" height="70" width="140"> </center> <center><b> ESTUDIO CONTABLE JBM Y CIA. </b></center></td>
                               <td><center> <input type="radio" name="nombre" value="41"/> CONTADOR GENERAL Y/O CONTADOR AUDITOR </center></td>
                               <td><center>Contrato indefinido</center></td>
                               <td><center>Realizar flujos de caja de los clientes y dar seguimiento a este, control de nómina de pagos , revisión de rendiciones de caja. proceso de conciliación bancaria, análisis de cuentas, revisión de libros contables, preparación de balances y estados financieros , otros.</center></td>
@@ -533,7 +533,7 @@ Apoyo, control y definición de estrategias comerciales.</center></td>
                               <td><center>Técnico o Ingeniería de Carreras en Administración de Empresas Mención Marketing o  Recursos Humanos.</center></td>
                             </tr>
                             <tr>
-                              <td rowspan="1"> <br><br> <center><img src="../media/img/MALO.png" height="30" width="50"> </center> <center><b> NIELSEN</b></center></td>
+                              <td rowspan="1"> <br><br> <center><img src="../media/img/NIELSEN.jpg" height="30" width="50"> </center> <center><b> NIELSEN</b></center></td>
                               <td><center> <input type="radio" name="nombre" value="54"/> Técnico Instalación y Mantención Domiciliaria VTR. </center></td>
                               <td><center>Contrato indefinido</center></td>
                               <td><center>Empresa contratista de VTR, busca profesionales egresados o titulados para la instalación y mantención domiciliaria de servicios VTR: Telefonía, Tv Cable e internet.</center></td>
